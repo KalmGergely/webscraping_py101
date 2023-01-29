@@ -1,1 +1,1 @@
-This is a demo webscraping project for a Python101 class
+This is a small demo webscraper that I made for a Python 101 class I attended.
